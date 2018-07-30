@@ -1,1 +1,1 @@
-sample file for branch firstbranch
+for branching and commit without -m command
